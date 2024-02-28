@@ -1,0 +1,102 @@
+body {
+   background-color: white;
+}
+*{
+    margin: 0;
+   padding: 0;
+   color: white;
+   box-sizing: border-box;
+   }
+nav {
+    background: #222222;
+   padding: 10px 40px 50px 70px;
+   border:1px solid red;
+   border-left: none;
+   border-right: none; 
+}
+nav ul {
+    display: flex;
+   list-style: none;
+   flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+nav ul li.logo {
+    flex: 1;
+   font-size: 50px;
+  font-weight: 2000%;
+
+}
+nav ul div.items {
+    padding: 0 25px;
+}
+
+
+.one {
+    color: black;
+    box-sizing: content-box;
+}
+
+
+
+input type {
+    color: cyan;
+}
+.nav{
+    background-color: black;
+    height: 450px;
+    width: 300px;
+    padding: 20px;
+    margin: 40px;
+    
+}
+.two{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    
+}
+.one{
+    color: black;
+    margin: 25px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 30px;
+    
+    
+
+}
+.nav{
+    color: black;
+
+}
+.flex{
+    display: flex;
+    background-color: white;
+}
+.div{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+}
+.diven{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+    margin: 30px;
+    padding: 15px;
+}
+.ton{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
